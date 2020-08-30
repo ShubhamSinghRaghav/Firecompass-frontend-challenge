@@ -1,2 +1,2 @@
-# Firecompass-frontend-challenge
+# Firecompass-frontEnd-Challenge
 React App
